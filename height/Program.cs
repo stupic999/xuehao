@@ -17,6 +17,11 @@ namespace height
             int r= rand.Next(0, height.Length);
             Console.WriteLine(r + " : " + height[r]);
             Console.WriteLine(r + " : " + name[r]);
+            Console.WriteLine("列出全班的身高");
+            for (int i = 0; i < height.Length; i++)
+            {
+                Console.WriteLine(i + name[i] + " ： " + height[i]);
+            }
             Console.ReadLine();
         }
     }
