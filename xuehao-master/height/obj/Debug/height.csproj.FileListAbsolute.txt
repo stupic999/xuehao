@@ -1,0 +1,13 @@
+c:\git\height\height\bin\Debug\height.exe.config
+c:\git\height\height\bin\Debug\height.exe
+c:\git\height\height\bin\Debug\height.pdb
+c:\git\height\height\obj\Debug\height.exe
+c:\git\height\height\obj\Debug\height.pdb
+c:\git\height\height\obj\Debug\height.csprojResolveAssemblyReference.cache
+C:\Users\Moucy Cat\Desktop\xuehao-master\height\bin\Debug\height.exe.config
+C:\Users\Moucy Cat\Desktop\xuehao-master\height\bin\Debug\height.exe
+C:\Users\Moucy Cat\Desktop\xuehao-master\height\bin\Debug\height.pdb
+C:\Users\Moucy Cat\Desktop\xuehao-master\height\obj\Debug\height.csprojResolveAssemblyReference.cache
+C:\Users\Moucy Cat\Desktop\xuehao-master\height\obj\Debug\height.csproj.CoreCompileInputs.cache
+C:\Users\Moucy Cat\Desktop\xuehao-master\height\obj\Debug\height.exe
+C:\Users\Moucy Cat\Desktop\xuehao-master\height\obj\Debug\height.pdb
